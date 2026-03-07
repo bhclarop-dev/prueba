@@ -1,5 +1,5 @@
 
-public class App 
+public class Tareas 
 {
     public static void main(String[] args) {
          double camisa = 25.0;
