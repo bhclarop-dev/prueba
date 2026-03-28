@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class App {
+public class cuatro_opciones {
     public static void main(String[] args) throws Exception {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Bienvenido, escoja la opcion que desea");

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class App {
+public class tres_opciones {
     public static void main(String[] args) throws Exception {
          Scanner scanner = new Scanner(System.in);
         System.out.println("1. Saludar");
@@ -9,7 +9,7 @@ public class App {
 
         System.out.println("Seleccione la opción que desea ");
         int opcion = scanner.nextInt();
-        
+
 
         switch (opcion) {
             case 1:

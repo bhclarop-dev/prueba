@@ -1,5 +1,5 @@
 
-public class App 
+public class punto1 
 {
     public static void main(String[] args) {
          double camisa = 25.0;

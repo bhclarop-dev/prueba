@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class App {
+public class tablas_de_multiplicar {
     public static void main(String[] args) throws Exception {
          Scanner scanner = new Scanner(System.in);
         System.out.print("Ingrese un número: ");
