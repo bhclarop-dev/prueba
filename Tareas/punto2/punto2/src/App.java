@@ -1,4 +1,4 @@
-public class Tareas {
+public class App {
     public static void main(String[] args) throws Exception {
         int cantidadFija = 1000;
         final int semanasMes = 4;
