@@ -9,6 +9,7 @@ public class App {
 
         System.out.println("Seleccione la opción que desea ");
         int opcion = scanner.nextInt();
+        
 
         switch (opcion) {
             case 1:
