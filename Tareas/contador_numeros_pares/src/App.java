@@ -10,5 +10,3 @@ public class App {
         System.out.println("Hay " + contador + " números pares entre 1 y 100.");
     }
 }
-
-
